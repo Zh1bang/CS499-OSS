@@ -31,6 +31,12 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Student 2
 * Student 3
 * Student 4
+  
+### Group 6 - <GROUPNAME>
+* Zhibang Qin
+* Student 2
+* Student 3
+* Student 4
 
 ### Group n - <GROUPNAME>
 * Student 1
